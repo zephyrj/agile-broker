@@ -1,0 +1,9 @@
+[package]
+name = "agile-broker"
+version = "0.1.0"
+authors = ["Jon Sykes"]
+edition = "2018"
+
+[dependencies]
+ws = "*"
+web-view = "*"
